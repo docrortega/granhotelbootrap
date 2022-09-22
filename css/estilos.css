@@ -1,0 +1,72 @@
+.mi-nav-logo {
+    height: 40px;
+    width: auto; }
+  
+  .jumbotron {
+    background-color: #ff8040;
+    color: rgb(0, 0, 0);
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px; }
+  
+  .mi-img-carrusel {
+    height: 400px;
+    object-fit: cover; }
+  
+  .mi-card-hotel {
+    flex: 1 200px;
+    margin-top: 8px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    /*display: flex;
+      flex-direction: column;
+      justify-content: space-between;*/ }
+  
+  .mi-btn-reserva {
+    width: 100%;
+    border-radius: 0px; }
+  
+  footer {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    background-color: #ff8040;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: white;
+    text-align: center; }
+  
+  footer .row {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px; }
+  
+  footer a {
+    color: white; }
+  
+  .mi-footer-address-icon {
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 0px; }
+  
+  /*precios*/
+  .tab-content {
+    padding-top: 16px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px; }
+  
+  /*nosotros*/
+  .mi-button-collapse {
+    padding-top: 16px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px; }
+  
